@@ -13,10 +13,16 @@ export default function Page() {
           Leo Issa Ghoulian
         </h1>
 
-        <p className="mt-5 max-w-2xl mx-auto text-lg text-zinc-300">
-          B.S. in Computer Engineering (CSUN). Pursuing an M.S. in Electrical
-          Engineering. I build hardware-software systems across embedded, PCB
-          design, signal processing, and computer vision.
+        <p className="mt-5 max-w-3xl mx-auto text-lg text-zinc-300">
+          B.S. in Computer Engineering (CSUN), first-generation university graduate,
+          and currently pursuing an M.S. in Electrical Engineering. At 22 years old,
+          I bring hands-on experience designing, building, and troubleshooting
+          hardware–software systems across embedded systems, PCB design, analog
+          front-end development, RF and ultrasonic signaling, signal processing,
+          and computer vision. My work emphasizes practical problem-solving—from
+          debugging firmware and bringing up custom PCBs to validating RF and
+          ultrasonic signals, ensuring signal integrity, and verifying system
+          performance using laboratory instrumentation.
         </p>
 
         <div className="mt-8 flex flex-wrap gap-3 justify-center">
